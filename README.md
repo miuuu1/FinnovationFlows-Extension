@@ -44,7 +44,7 @@ The node allows for the following configuration:
 2. Add local "bundle" Folder as Update Site: In KNIME, click Preferences (1), Install/Update (2), Available Software Sites (3), Add (4), Local (5) ==> browse to the downloaded folder and click Add (6).
 <img src="icons/readme/Installation.png" width=800px/>
 3. Install Extension: In KNIME, click Menu (1), Install Extensions (2), Type "AI" in Search box (3), Select "AI utilities" (4), Click next / finish until dialogue disappears
-<img src="icons/readme/Installation1.png" width=800px/>
+<img src="icons/readme/Installation2.png" width=800px/>
 4. Wait for Installation to Finish - you will be prompted to restart KNIME
 5. Search for nodes: Schema Generator and Structured Output Prompter in your node repository
 <img src="icons/readme/NodeRepo.png" width=800px/>
