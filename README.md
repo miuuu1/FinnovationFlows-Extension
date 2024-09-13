@@ -93,7 +93,7 @@ An example workflow can be found on the KNIME Community Hub here: <TODO Insert L
 
 ## Installation
 ### Video
-<video controls src="icons/readme/InstallationFFExtension.mp4" title="Title"></video>
+[Watch the video](icons/readme/InstallationFFExtension.mp4)
 
 ### Instructions and Screenshots
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -110,7 +110,7 @@ An example workflow can be found on the KNIME Community Hub here: <TODO Insert L
 
 4. Wait for Installation to Finish - you will be prompted to restart KNIME
 5. Search for nodes: Schema Generator and Structured Output Prompter in your node repository
-![alt text](deployed/FinnovationFlows-Extension/icons/readme/NodeRepo.png)
+
 
 
 ## Example Set Up in KNIME:
