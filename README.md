@@ -139,9 +139,8 @@ Click to watch:
 ## Example Set Up in KNIME:
 Comprehensive Example Workflows on how to use these nodes can be found on KNIME Community Hub here:
 
-<p align="center">
+
   [<img src="icons/readme/ExampleWorkflows.png" alt="Logo" style="width: 1080px; " />](https://hub.knime.com/s/CFnWmD0EZEseo3nD)
-</p>
 
 
 
