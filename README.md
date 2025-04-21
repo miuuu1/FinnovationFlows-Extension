@@ -110,6 +110,37 @@ Configuration:
 </br>
 </br>
 
+<p align="center">
+  <img src="icons/readme/To Markdown Converter.png" alt="Logo" style="width: 300px; " />
+</p>
+
+### Description
+
+
+  This node converts various file types to markdown format using the markitdown package.
+  
+  Supported file types:
+  - PDF
+  - PowerPoint
+  - Word
+  - Excel
+  - Images (EXIF metadata and OCR)
+  - Audio (EXIF metadata and speech transcription)
+  - HTML
+  - Text-based formats (CSV, JSON, XML)
+  - ZIP files (iterates over contents)
+
+  Configuration:
+  - Choose Mode (Single File or Folder containing Files)
+  - Provide local Path as String - provide path to file or Folder
+  
+  Hint: You can pass a path to a file or folder via flow variable and select it using Local File Browser Configuration or File Chooser Widget Nodes.
+
+
+
+</br>
+</br>
+
 ## Installation
 ### Video
 Click to watch:
